@@ -1,0 +1,6 @@
+#log files
+logs/
+#target folder
+target/
+#test-oupt folder
+test-output/
